@@ -10,4 +10,5 @@ jobs:
       - name: multiple line cmd
         run: |
           node -v
-          npm -vname: first-workflow
+          npm -v
+          
